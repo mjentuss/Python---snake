@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1558307920 source:d:\kamil\desktop\ping pong oop\pingpong.cpp
+	<iostream>
+	"pingpong.h"
+
+1558312581 source:d:\kamil\desktop\ping pong oop\main.cpp
+	<iostream>
+	<windows.h>
+	"pingpong.h"
+
+1558308172 d:\kamil\desktop\ping pong oop\pingpong.h
+	<iostream>
+
+1558283578 source:d:\kamil\desktop\xfhsxfdhdxf\ping pong oop-20190601t140557z-001\ping pong oop\pingpong.cpp
+	<iostream>
+	"pingpong.h"
+
+1558283578 d:\kamil\desktop\xfhsxfdhdxf\ping pong oop-20190601t140557z-001\ping pong oop\pingpong.h
+	<iostream>
+
+1559414642 source:d:\kamil\desktop\xfhsxfdhdxf\ping pong oop-20190601t140557z-001\ping pong oop\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+	"pingpong.h"
+
+1559414865 source:d:\kamil\desktop\tutaj programy po\ping pong oop - projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+	"pingpong.h"
+
+1558283578 d:\kamil\desktop\tutaj programy po\ping pong oop - projekt\pingpong.h
+	<iostream>
+
+1559414865 source:d:\kamil\desktop\po\tutaj programy po\ping pong oop - projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+	"pingpong.h"
+
+1558283578 d:\kamil\desktop\po\tutaj programy po\ping pong oop - projekt\pingpong.h
+	<iostream>
+
+1576862979 source:d:\users\kamil\desktop\programowanie_all\c++\po\tutaj programy po\ping pong oop - projekt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+	"pingpong.h"
+
+1576862980 d:\users\kamil\desktop\programowanie_all\c++\po\tutaj programy po\ping pong oop - projekt\pingpong.h
+	<iostream>
+

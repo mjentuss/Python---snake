@@ -1,0 +1,19 @@
+
+
+
+     _ 0  .-----\-----.  ,_0 _
+   o' / \ |\     \     \    \ `o
+   __|\___|_`-----\-----`__ /|____
+     / |     |          |  | \
+             |          |
+
+              PING PONG
+
+
+
+Gracz z lewej strony porusza sie klawiszami 'w' oraz 's'.
+Gracz z prawej strony porusza sie strzalkami w gore oraz w dol.
+
+Wygrywa gracz ktory pierwszy zdobedzie 3 punkty
+
+Aby Kontyunowac nacisnij dowolny klawisz...
